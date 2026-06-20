@@ -49,7 +49,7 @@ Incorrect inhaler technique is a common but often overlooked issue in respirator
 
 ## 👨‍🔬 Developed By
 
-** Pamodhya Wijesinghe / Rasula Geesara  / Thisura Samuditha / Janani Hendeniya**  
+** Pamodya Wijesinghe / Rasula Geesara  / Thisura Samuditha / Janani Hendeniya**  
 
 
 
